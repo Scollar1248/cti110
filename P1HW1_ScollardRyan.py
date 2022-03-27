@@ -1,6 +1,6 @@
 # Basic Math
 # 26 MAR 2022
-# CTI-110 P1HW2 - Basic Math
+# CTI-110 P1HW1 - Basic Math
 # Ryan Scollard
 #
 

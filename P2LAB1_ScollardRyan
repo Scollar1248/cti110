@@ -1,7 +1,9 @@
-# CTI 110 Repository
-#Created for P1LAB2
-#Scollard
-#14 APR 2022
+#
+# Variables
+# 14 APR 2022
+# CTI-110 P2LAB1 - Variables
+# Ryan Scollard
+#
 
 
 # Program takes user input and dispays in a f'string.

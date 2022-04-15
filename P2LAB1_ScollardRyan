@@ -1,0 +1,23 @@
+# CTI 110 Repository
+#Created for P1LAB2
+#Scollard
+#14 APR 2022
+
+
+# Program takes user input and dispays in a f'string.
+
+# Asks for user input and holds interger in a variable.
+user_int = int(input('Enter integer (32 - 126):\n'))
+# Asks for user input and holds float in a variable.
+user_float = float(input('Enter float:\n'))
+# Asks for user input and holds character in a variable.
+user_char = input('Enter character:\n')
+# Asks for user input and holds string in a variable.
+user_str = input('Enter string:\n')
+
+# Prints different combinations of varibles in F'string format.
+print(f'{user_int} {user_float} {user_char} {user_str}')
+print(f'{user_str} {user_char} {user_float} {user_int}')
+
+# Coverts user_int to a character.
+print(f'{user_int} converted to a character is {chr(user_int)}')
